@@ -1,4 +1,4 @@
-# Project_4: Using NLP to topic model horror movies
+# Project 4: Using NLP to topic model horror movies
 
 My Metis project 4.
 
