@@ -25,7 +25,7 @@ My goal was to see if I could model specific subgenres from script data; that is
   - Gory, campy horror
   - Horror centered around a central, charismatic protagonist or centered around animals
   
- - Gothic horror and science fiction horror were most clearest topics
+ - Gothic horror and science fiction horror were clearest topics
 
 ## 4. Takeaways and future work
 Horror movies allow viewers to face their fears in a safe space. Thus, specific subgenres appear to represent deep-seated fears, such as the unknown, death, madness, and intrusion into one's home or neighborhood by violent forces. Using NLP, I was able to gain insight into these genres and get an idea of which movies belong to which subgenre.
