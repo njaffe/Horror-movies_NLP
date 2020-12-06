@@ -3,7 +3,7 @@
 My Metis project 4.
 
 ## 1. Background
-In this project, used topic modeling techniques to identify subgenres within the horror genre.
+In this project, I used topic modeling techniques to identify subgenres within the horror genre.
 
 My goal was to see if I could model specific subgenres from script data; that is, people speaking.
 
